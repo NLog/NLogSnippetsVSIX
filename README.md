@@ -1,4 +1,4 @@
 # NLogSnippetsVSIX
 NLog Snippet for Visual Studio,
 
-snippet "nlogger" expands to "private static Logger Logger = LogManager.GetCurrentClassLogger();
+snippet "nlogger" expands to `private static Logger Logger = LogManager.GetCurrentClassLogger();`
